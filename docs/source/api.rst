@@ -1,7 +1,7 @@
-API
+API for luseepy
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   luseepy

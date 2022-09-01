@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'lusee'
+copyright = '2022, LuSEE-Night'
 author = 'Graziella'
 
 release = '0.1'
