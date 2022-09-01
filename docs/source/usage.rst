@@ -16,7 +16,7 @@ Getting packages
 ----------------
 
 To retrieve a list of random ingredients,
-you can use the ``lusee.get_rpackages()`` function:
+you can use the ``lusee.get_packages()`` function:
 
 .. autofunction:: lusee.get_packages
 
