@@ -16,7 +16,7 @@ Getting packages
 ----------------
 
 To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+you can use the ``lusee.get_rpackages()`` function:
 
 .. autofunction:: lusee.get_packages
 
@@ -29,5 +29,5 @@ For example:
 
 >>> import lusee
 >>> lusee.get_packages()
-['python', 's++']
+['python', 'c++']
 
