@@ -1,7 +1,7 @@
 Welcome to Lumache's documentation!
 ===================================
 
-**lusee** is the term for software used in the **LuSEE at Noght** experiment.
+**lusee** is the term for software used in the **LuSEE at Night** experiment.
 
 .. note::
 
