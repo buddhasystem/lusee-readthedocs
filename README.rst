@@ -1,8 +1,5 @@
-Template for the Read the Docs tutorial
+Sandbox for experimentation with the LuSEE-night documents
 =======================================
-
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
 
 Read the tutorial here:
 
