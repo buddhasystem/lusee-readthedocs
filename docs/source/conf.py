@@ -4,7 +4,7 @@
 
 project = 'lusee'
 copyright = '2022, LuSEE-Night'
-author = 'Graziella'
+author = 'Potekhin'
 
 release = '0.1'
 version = '0.1.0'

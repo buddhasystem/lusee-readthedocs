@@ -21,7 +21,7 @@ you can use the ``lusee.get_rpackages()`` function:
 .. autofunction:: lusee.get_packages
 
 The ``kind`` parameter should be either ``"python"`` or ``"c++"``.
-Otherwise, :py:func:`lusee.get_random_ingredients` will raise an exception.
+Otherwise, :py:func:`lusee.get_packages` will raise an exception.
 
 .. autoexception:: lusee.InvalidKindError
 
