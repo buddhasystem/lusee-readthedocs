@@ -1,5 +1,5 @@
 Welcome to LuSEE-Night documentation!
-===================================
+==========
 
 **lusee** is the term for software used in the **LuSEE at Night** experiment.
 

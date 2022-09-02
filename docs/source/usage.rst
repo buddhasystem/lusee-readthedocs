@@ -31,3 +31,8 @@ For example:
 >>> lusee.get_packages()
 ['python', 'c++']
 
+
+Misc
+----
+
+Expandability.
