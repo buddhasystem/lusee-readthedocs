@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to LuSEE-Night documentation!
 ===================================
 
 **lusee** is the term for software used in the **LuSEE at Night** experiment.
@@ -14,3 +14,4 @@ Contents
 
    usage
    api
+   misc

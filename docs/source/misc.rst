@@ -1,7 +1,8 @@
-API for lusee
-====
+Misc
+=====
 
 .. autosummary::
    :toctree: generated
 
-   lusee
+   misc
+   
