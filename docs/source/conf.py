@@ -5,6 +5,8 @@ import sys
 
 sys.path.insert(0, os.path.abspath('../..'))
 
+import lusee
+
 # -- Project information
 
 project = 'lusee-readthedocs'
