@@ -15,9 +15,18 @@ def get_packages(kind=None):
     Return a list of LuSEE packages.
 
     :param kind: Optional programming language
-    :type kind: list[str] or None
-    :raise lumache.InvalidKindError: If the kind is invalid.
+    :type kind: str
+    :raise lusee.InvalidKindError: If the kind is invalid.
     :return: package list.
-    :rtype: list[str]
+    :rtype: str
     """
-    return ["luseepy", "refspec"]
+    return "luseepy"
+
+def return_true():
+    """
+    Test function to check RTD functionality
+
+    :return: boolean value.
+    :rtype: boolean
+    """
+    return True
