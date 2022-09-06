@@ -1,5 +1,5 @@
 """
-luseepy-readthedocs: a sandbox for experimenting with documentation for LuSEE-Night
+lusee-readthedocs: a sandbox for experimenting with documentation for LuSEE-Night
 """
 
 __version__ = "0.1.0"

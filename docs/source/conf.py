@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'lusee'
+project = 'lusee-readthedocs'
 copyright = '2022, LuSEE-Night'
 author = 'Potekhin'
 

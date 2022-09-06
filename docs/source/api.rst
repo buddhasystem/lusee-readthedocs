@@ -1,5 +1,5 @@
 API for lusee
-==========
+=========================
 
 .. autosummary::
    :toctree: generated

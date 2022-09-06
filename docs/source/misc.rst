@@ -1,5 +1,5 @@
 Misc
-=====
+======================
 
 .. autosummary::
    :toctree: generated
