@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lusee-readthedocs"
+name = "lusee-readthedoecs"
 authors = [{name = "Potekhin", email = "potekhin@bnl.gov"}]
 dynamic = ["version", "description"]
