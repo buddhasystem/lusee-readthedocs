@@ -14,9 +14,9 @@ def get_packages(kind=None):
     """
     Return a list of LuSEE packages.
 
-    :param kind: Optional programming language
+    :param kind: Optional -- programming language
     :type kind: str
-    :raise lusee.InvalidKindError: If the kind is invalid.
+    :raise lusee.InvalidKindError: If the kind of package is not invalid.
     :return: package list.
     :rtype: str
     """

@@ -32,6 +32,8 @@ For example:
 ['python', 'c++']
 
 
+.. autofunction:: lusee.return_true
+
 Misc
 ----
 
